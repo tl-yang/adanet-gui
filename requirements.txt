@@ -1,0 +1,4 @@
+tensorflow
+PyQt5
+adanet
+opencv-python
